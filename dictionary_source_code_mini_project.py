@@ -59,3 +59,6 @@ while True:
 
 
 
+def add():
+    return 1
+print(add)
